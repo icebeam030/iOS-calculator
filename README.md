@@ -10,8 +10,6 @@ An iOS command line calculator
 
 ## Detailed instructions as stated in subject requirements:
 
-### Specification
-
 You are to prepare a macOS command-line tool that will act as a simple calculator. The calculator will be run from the command line and will only work with integer numbers and the following arithmetic operators: `+` `-` `x` `/` `%`. The `%` operator is the modulus operator, not percentage.
 
 For example, if the program is compiled to `calc`, the following demonstrates how it will work
