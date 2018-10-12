@@ -8,9 +8,9 @@ An iOS command line calculator
 - Use space to separate operators and operands.
 
 
-Detailed instructions as stated in subject requirements:
+## Detailed instructions as stated in subject requirements:
 
-## Specification
+### Specification
 
 You are to prepare a macOS command-line tool that will act as a simple calculator. The calculator will be run from the command line and will only work with integer numbers and the following arithmetic operators: `+` `-` `x` `/` `%`. The `%` operator is the modulus operator, not percentage.
 
